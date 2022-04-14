@@ -1,5 +1,5 @@
 # yamdb_final
-![yamdb_workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/yamdb_workflow.yml/badge.svg)
+![yamdb_workflow](https://github.com/kostkh/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 API для учебного проекта YaMDB - учебного проекта соц.сети, в котором пользователи могут размещать обзоры на произведения в разных категориях (фильмы, музыка, кино) и жанрах, после чего на основании оценок формируется рейтинг произведений. 
 
