@@ -98,4 +98,5 @@ docker-compose exec web python manage.py collectstatic --no-input
 
 Лицензия: BSD 3-Clause License
 
+
 Автор: Константин Харьков
